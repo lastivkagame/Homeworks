@@ -1,0 +1,15 @@
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\bin\Debug\DAL.dll.config
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\bin\Debug\DAL.dll
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\bin\Debug\DAL.pdb
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\bin\Debug\EntityFramework.dll
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\bin\Debug\EntityFramework.xml
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\obj\Debug\DAL.dll
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\obj\Debug\DAL.pdb
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\DAL\obj\Debug\DAL.Migrations.first.resources

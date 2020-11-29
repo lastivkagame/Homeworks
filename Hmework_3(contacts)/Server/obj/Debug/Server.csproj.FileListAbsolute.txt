@@ -1,0 +1,15 @@
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\Server.exe.config
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\Server.exe
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\Server.pdb
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\DAL.dll
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\EntityFramework.dll
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\DAL.pdb
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\DAL.dll.config
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\EntityFramework.xml
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\obj\Debug\Server.exe
+D:\Working place\Programming(step + other)\Network Program\les 3\Hmework_3(contacts)\Server\obj\Debug\Server.pdb
